@@ -39,7 +39,7 @@ global.APIKeys = { // APIKey Here
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
   'https://bsbt-api-rest.herokuapp.com': 'benniismaelapikey',
-  'https://botstyle-api.herokuapp.com': 'daftar dulu yaa',
+  'https://botstyle-api.herokuapp.com': '3wkdM32Q',
   'https://api.zeks.xyz': 'apivinz',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://hardianto-chan.herokuapp.com': 'hardianto'
